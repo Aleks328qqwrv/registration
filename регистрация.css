@@ -1,0 +1,39 @@
+.kartinka {
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 180px;
+}
+.login {
+	display: block;
+	width: 178px;
+	margin-left: 43.25%;
+	height: 50px;
+	background: red;
+	color: white;
+}
+.vvodlog {
+	display: block;
+	margin-left: 43.25%;
+	margin-bottom: 20px;
+	
+
+	
+}
+.passname {
+	display: block;
+	margin-left: 43.25%;
+	width: 178px;
+	height: 50px;
+	background: red;
+	color: white;
+}
+.vvodpass {
+	display: block;
+	margin-left: 43.25%;
+	
+}
+.checkbox {
+	background: red;
+	color: red;
+}
